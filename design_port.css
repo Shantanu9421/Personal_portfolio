@@ -135,7 +135,7 @@ main hr {
 
 .SecondSection .box {
     background: white;
-    width: 76vw;
+    width: 85vw;
     height: 2px;
     margin: 130px 0;
     display: flex;
@@ -146,13 +146,14 @@ main hr {
     height: 93px;
     width: 1px;
     background-color: white;
-    margin: 0 140px;
+    margin: 0 150px;
 }
 
 .vertical-title {
     position: relative;
     top: 75px;
-    width: 150px;
+    width: 190px;
+    right: 120px;
     font-size: 19px;
 
 }
@@ -161,7 +162,8 @@ main hr {
     position: relative;
     top: 86px;
     color: gray;
-    width: 150px;
+    width: 250px;
+    right: 120px;
     font-size: 14px;
 
 }
@@ -169,8 +171,8 @@ main hr {
 .image-top {
     width: 34px;
     position: relative;
-    top: -45px;
-    left: -9px;
+    top: -47px;
+    left: -17px;
 }
 
 footer {
